@@ -61,15 +61,34 @@ Utilitários: intl, mask_text_input_formatter
 
 
 
-Login
+**Login**
 
-Cadastro
 
-Tela de Análise
+<img width="494" height="1076" alt="image" src="https://github.com/user-attachments/assets/05f23282-699d-4fb8-988f-1b39576844d8" />
 
-Tela de Resultados
 
-(Insira seus prints aqui)
+
+**Cadastro**
+
+
+<img width="495" height="1065" alt="image" src="https://github.com/user-attachments/assets/94061d6b-f9f8-48b7-8749-46130038ab0d" />
+
+
+
+**Tela de Análise**
+
+
+<img width="493" height="1073" alt="image" src="https://github.com/user-attachments/assets/aea750f2-3ef9-4fd1-9b24-92dcad790d6a" />
+
+
+
+**Tela de Resultados**
+
+
+<img width="491" height="1070" alt="image" src="https://github.com/user-attachments/assets/9326aa48-7e96-44f6-a43f-357c73e97952" />
+
+
+
 
  Como Rodar o Projeto
 Pré-requisitos
